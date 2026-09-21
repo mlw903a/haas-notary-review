@@ -1,10 +1,10 @@
 # World Gratitude Day — 21 September 2026
 
-**Status:** Bank-ready (copy locked, image pending, not scheduled)
+**Status:** Shipped — card locked, all 10 channels scheduled 21 Sep 2026
 **Pillar / slot:** All — cross-pillar, reflective
 **Format:** Quote-on-image. Caption-light. Let the line do the work.
-**Sourcing:** TKAPP's own voice, closed with an attributed quote from Cicero
-(public domain). No link-out.
+**Sourcing:** TKAPP's own voice. The Cicero quote (public domain) is set on the
+image card, not in the caption. No link-out.
 **CTA:** None, by request. The post closes on the quote.
 **Filter verdict:** This is an observance post, not a kid story. The four-point
 story filter does not apply. No kid and no number is invented.
@@ -20,10 +20,7 @@ reaches the sea. For the kids who read our books and ask "what can I do?" and
 then go and do it. For our partners around the globe that inspire us to keep
 doing our small part.
 
-Gratitude is quiet work. It notices first. Then it says thank you out loud.
-
-"Gratitude is not only the greatest of virtues, but the parent of all the
-others." — Cicero 💙
+Gratitude is quiet work. It notices first. Then it says thank you out loud. 💙
 
 #WorldGratitudeDay #OceanBoundPlastic #KidsAndPlanet #OceanBags
 
@@ -43,9 +40,6 @@ Bound Plastic™, becomes backpacks and totes, and goes to kids in crisis.
 
 Gratitude is quiet work. It notices first. Then it says thank you out loud.
 
-"Gratitude is not only the greatest of virtues, but the parent of all the
-others." — Cicero
-
 ---
 
 ## X / Threads (Mark Williams)
@@ -54,10 +48,7 @@ Today is World Gratitude Day.
 
 Thankful for the river workers who pull plastic out before it reaches the sea.
 For the kids who read our books, ask "what can I do?" — then go and do it. For
-the partners who keep us at it.
-
-"Gratitude is not only the greatest of virtues, but the parent of all the
-others." — Cicero 💙
+the partners who keep us at it. 💙
 
 ---
 
@@ -90,9 +81,15 @@ reeds and water.
 
 Palette: soft blue, sage green, sand, warm cream paper.
 
-Rendered text on the image: "Gratitude notices first."
-(Option B: set the full Cicero quote on the card instead, in a small serif, and
-drop the line from the caption.)
+Rendered text on the image (Option B, approved): the full Cicero quote, set in
+a small serif over the open cream space in the upper part of the card —
+
+    "Gratitude is not only the greatest
+    of virtues, but the parent of all
+    the others."
+                              — CICERO
+
+The quote appears on the card only. It is not repeated in any caption.
 
 Alternative: a real photo of river workers at work fits this post well, if a
 photo with clear use rights is available.
@@ -103,4 +100,27 @@ photo with clear use rights is available.
 
 - LinkedIn copy is for Mark's account. Toni's personal LinkedIn is not drafted.
 - The copy makes no claim about quantity, weight or number of bags.
-- Nothing is scheduled. Approve first, then the post goes to the Postiz queue.
+- Card art: https://uploads.postiz.com/aUffq19VUR.png (1536 x 1536)
+- The card was proofread against the Cicero wording before it was queued.
+- Toni's Instagram carries the first-person version, at Mark's request to post
+  to all ten channels. Toni's personal LinkedIn is still not drafted.
+- TikTok goes out as a photo post of the card, with DIRECT_POST, public, no
+  auto music. The five-beat on-screen sequence above stays available if the
+  post is later rebuilt as a video.
+
+## Queue — all times UTC, 21 September 2026
+
+| Time  | Channel                  | Platform  | Copy         |
+|-------|--------------------------|-----------|--------------|
+| 14:00 | Kids and Planet          | Instagram | brand ("we") |
+| 14:08 | Oceanbags Foundation     | Instagram | brand ("we") |
+| 14:16 | Toni haas-Williams       | Instagram | personal     |
+| 14:24 | Kids and Planet          | Facebook  | brand ("we") |
+| 14:32 | Oceanbagsforgood         | Facebook  | brand ("we") |
+| 14:40 | Mark Williams            | Facebook  | personal     |
+| 14:48 | Mark Williams            | LinkedIn  | LinkedIn     |
+| 14:56 | Mark Williams            | X         | X            |
+| 15:04 | oceanbagforgood          | TikTok    | TikTok       |
+| 15:12 | Kids and Planet Books    | TikTok    | TikTok       |
+
+14:00 UTC is 09:00 in Central Time.

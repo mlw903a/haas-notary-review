@@ -3,9 +3,11 @@
 **Status:** Bank-ready (copy locked, image pending, not scheduled)
 **Pillar / slot:** All — cross-pillar, reflective
 **Format:** Quote-on-image. Caption-light. Let the line do the work.
-**Sourcing:** Inspiration-only. TKAPP's own voice. No quote, no attribution, no link-out.
+**Sourcing:** TKAPP's own voice, closed with an attributed quote from Cicero
+(public domain). No link-out.
+**CTA:** None, by request. The post closes on the quote.
 **Filter verdict:** This is an observance post, not a kid story. The four-point
-story filter does not apply. No kid, no quote and no number is invented.
+story filter does not apply. No kid and no number is invented.
 
 ---
 
@@ -14,12 +16,14 @@ story filter does not apply. No kid, no quote and no number is invented.
 Today is World Gratitude Day.
 
 We are thankful for the river workers who pull plastic from the water before it
-reaches the sea. For the kids who ask "what can I do?" and then go and do it.
-For every person who carries one of our bags and tells the story behind it.
+reaches the sea. For the kids who read our books and ask "what can I do?" and
+then go and do it. For our partners around the globe that inspire us to keep
+doing our small part.
 
 Gratitude is quiet work. It notices first. Then it says thank you out loud.
 
-So — one name. Who are you thankful for today? Put it in the comments. 💙
+"Gratitude is not only the greatest of virtues, but the parent of all the
+others." — Cicero 💙
 
 #WorldGratitudeDay #OceanBoundPlastic #KidsAndPlanet #OceanBags
 
@@ -30,15 +34,17 @@ So — one name. Who are you thankful for today? Put it in the comments. 💙
 Today is World Gratitude Day.
 
 I am thankful for the river workers who pull plastic from the water before it
-reaches the sea. For the kids who ask "what can I do?" and then go and do it.
-For every person who carries one of our bags and tells the story behind it.
+reaches the sea. For the kids who read our books and ask "what can I do?" and
+then go and do it. For our partners around the globe that inspire us to keep
+doing our small part.
 
 That is the whole model in one line: plastic comes out of rivers, becomes Ocean
 Bound Plastic™, becomes backpacks and totes, and goes to kids in crisis.
 
 Gratitude is quiet work. It notices first. Then it says thank you out loud.
 
-Who are you thankful for today?
+"Gratitude is not only the greatest of virtues, but the parent of all the
+others." — Cicero
 
 ---
 
@@ -47,21 +53,28 @@ Who are you thankful for today?
 Today is World Gratitude Day.
 
 Thankful for the river workers who pull plastic out before it reaches the sea.
-For the kids who ask "what can I do?" — then go and do it.
+For the kids who read our books, ask "what can I do?" — then go and do it. For
+the partners who keep us at it.
 
-Gratitude notices first. Then it says thank you out loud.
-
-One name. Who are you thankful for? 💙
+"Gratitude is not only the greatest of virtues, but the parent of all the
+others." — Cicero 💙
 
 ---
 
 ## TikTok (oceanbagforgood, Kids and Planet Books)
 
-Hook (on-screen, first 2 seconds): "Say one name out loud."
+On-screen text, in sequence:
+1. "Today is World Gratitude Day."
+2. "For the river workers."
+3. "For the kids who ask what can I do — and then do it."
+4. "For our partners around the globe."
+5. "Gratitude is not only the greatest of virtues, but the parent of all the
+   others. — Cicero"
 
 Caption:
-It is World Gratitude Day. One name — who are you thankful for? 💙
-Ours: the river workers. #WorldGratitudeDay #OceanBoundPlastic #KidsAndPlanet
+Today is World Gratitude Day. For the river workers, for the kids, for our
+partners around the globe. 💙
+#WorldGratitudeDay #OceanBoundPlastic #KidsAndPlanet
 
 ---
 
@@ -70,14 +83,16 @@ Ours: the river workers. #WorldGratitudeDay #OceanBoundPlastic #KidsAndPlanet
 Warm hand-drawn watercolour, in the style of Quentin Blake and Beatrix Potter.
 No AI gloss, no photo-realism. Loose ink line, soft wash, visible paper texture.
 
-Scene: a child sits on a riverbank at early morning light. The child holds a
-small folded paper note in both hands and looks up. Beside the child is a tote
-bag made from recycled material. The river is calm. A few green and blue
-brushstrokes suggest reeds and water.
+Scene: a child sits on a riverbank at early morning light. The child holds an
+open book in both hands and looks up. Beside the child is a tote bag made from
+recycled material. The river is calm. A few green and blue brushstrokes suggest
+reeds and water.
 
 Palette: soft blue, sage green, sand, warm cream paper.
 
 Rendered text on the image: "Gratitude notices first."
+(Option B: set the full Cicero quote on the card instead, in a small serif, and
+drop the line from the caption.)
 
 Alternative: a real photo of river workers at work fits this post well, if a
 photo with clear use rights is available.
